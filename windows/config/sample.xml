@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<check_list>
+    <folder_check>F:\BKCS\z_More\winreg</folder_check>
+    <file_check>F:\BKCS\z_More\winreg\abc.xml</file_check>
+    <windows_registry>HKEY_LOCAL_MACHINE\Software\Classes\batfile</windows_registry>
+</check_list>
