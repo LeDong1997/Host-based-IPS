@@ -1,0 +1,7 @@
+psutil
+numpy
+requests
+pywin32
+pyqt5
+PyQtChart
+matplotlib
